@@ -1,17 +1,8 @@
-## Getting Started
+## Controle de Fluxo - Desafio
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Exercitando todo o conteúdo apresentado no módulo de Controle de Fluxo, codificando o seguinte cenário:
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+O sistema recebe dois parâmetros via terminal que representam dois números inteiros, com estes dois números obtemos a quantidade de interações (for) e assim é realizada a impressão no console (System.out.print) dos números incrementados
 
 ## Dependency Management
 
